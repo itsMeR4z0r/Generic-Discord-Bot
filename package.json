@@ -1,0 +1,21 @@
+{
+  "name": "generic-discord-bot",
+  "version": "1.0.0",
+  "description": "Generic Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "generic"
+  ],
+  "author": "Isaac Pinheiro (R4z0r)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
